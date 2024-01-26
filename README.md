@@ -10,6 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <hr />
-<hr />
-<hr />
 <img src="https://github-readme-stats.vercel.app/api?username=Pi-Desraj&count_private=true&theme=radical"> 
